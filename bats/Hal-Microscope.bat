@@ -1,0 +1,1 @@
+cmd /K ""C:\ProgramData\Anaconda3\Scripts\activate.bat" "merfishplus" &  "python" "C:\Software\Mammoth\storm_control\hal4000\hal4000.py" "C:\Users\User\Desktop\Paramaters\Hal_paramaters.xml""

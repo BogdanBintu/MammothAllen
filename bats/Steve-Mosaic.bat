@@ -1,0 +1,1 @@
+cmd /K ""C:\ProgramData\Anaconda3\Scripts\activate.bat" "merfishplus" &  "python" "C:\Software\Mammoth\storm_control\steve\steve.py" "C:\Users\User\Desktop\Paramaters\steve_settings_default.xml""
